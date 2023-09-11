@@ -6,7 +6,7 @@ app.use(express.json())
 app.use (cors())
 
 
-const API_KEY = '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'
+const API_KEY = '<YOUR COPEN AI API KEY>'
 
 
 
